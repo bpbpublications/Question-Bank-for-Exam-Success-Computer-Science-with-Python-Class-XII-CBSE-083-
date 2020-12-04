@@ -1,0 +1,1 @@
+from .GuessingGame import wordgenerator
